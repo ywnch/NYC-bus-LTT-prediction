@@ -1,7 +1,7 @@
-ID,from,to,segment,meter,feet,intersections,blocks,busstops
-188189,188,189,5th Avenue - Southbound - 96th St to 86th St,811.76,2663.22,11,10,4
-18922,189,22,5th Avenue - Southbound - 86th St to 72nd St,1153.06,3782.96,15,14,5
-2216,22,16,5th Avenue - Southbound - 72nd St to 57th St,1207.64,3962.03,16,15,6
-1615,16,15,5th Avenue - Southbound - 57th St to 49th St,642.36,2107.45,9,8,1
-1514,15,14,5th Avenue - Southbound - 49th St to 42nd St,564.2,1851.03,8,7,3
-14118,14,118,5th Avenue - Southbound - 42nd St to 34th St,642.87,2109.13,9,8,3
+segment_id,ID,from,to,segment,meter,feet,intersections,blocks,busstops
+1,188189,188,189,5th Avenue - Southbound - 96th St to 86th St,811.76,2663.22,11,10,4
+2,18922,189,22,5th Avenue - Southbound - 86th St to 72nd St,1153.06,3782.96,15,14,5
+3,2216,22,16,5th Avenue - Southbound - 72nd St to 57th St,1207.64,3962.03,16,15,6
+4,1615,16,15,5th Avenue - Southbound - 57th St to 49th St,642.36,2107.45,9,8,1
+5,1514,15,14,5th Avenue - Southbound - 49th St to 42nd St,564.2,1851.03,8,7,3
+6,14118,14,118,5th Avenue - Southbound - 42nd St to 34th St,642.87,2109.13,9,8,3
